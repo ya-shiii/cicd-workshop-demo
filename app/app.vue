@@ -21,14 +21,14 @@ useHead({
       <div class="header-section">
         <div class="badge">
           <span class="pulse-dot"></span>
-          Live nako bai  
+          Live Demo
         </div>
-        <h1 class="title">Aisan </h1>
+        <h1 class="title">CI/CD Workshop</h1>
       </div>
       
       <div class="status-box">
         <p class="status-label">Deployment Status</p>
-        <p class="status-version">Version 100000</p>
+        <p class="status-version">Version 1.0</p>
       </div>
 
       <div class="footer-section">
