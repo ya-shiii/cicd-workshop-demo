@@ -21,7 +21,7 @@ useHead({
       <div class="header-section">
         <div class="badge">
           <span class="pulse-dot"></span>
-          Live Demonstration
+          Live Demonstration For Show
         </div>
 <<<<<<< HEAD
         <h1 class="title">CI/CD TI15</h1>
