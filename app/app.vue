@@ -23,7 +23,7 @@ useHead({
           <span class="pulse-dot"></span>
           Live Demo
         </div>
-        <h1 class="title">CI/CD Workshop</h1>
+        <h1 class="title">CI/CD TI15</h1>
       </div>
       
       <div class="status-box">
