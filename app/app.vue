@@ -21,14 +21,18 @@ useHead({
       <div class="header-section">
         <div class="badge">
           <span class="pulse-dot"></span>
-          Live Demo
+          Live Demonstration
         </div>
+<<<<<<< HEAD
         <h1 class="title">CI/CD TI15</h1>
+=======
+        <h1 class="title">Joshii's Workshop</h1>
+>>>>>>> 5d9e45a1d1ef66574dcd923bde7b71620d604138
       </div>
       
       <div class="status-box">
         <p class="status-label">Deployment Status</p>
-        <p class="status-version">Version 1.0</p>
+        <p class="status-version">Version 1.1</p>
       </div>
 
       <div class="footer-section">
