@@ -28,7 +28,7 @@ useHead({
       
       <div class="status-box">
         <p class="status-label">Deployment Status</p>
-        <p class="status-version">Version 1.0</p>
+        <p class="status-version">Version 1.5</p>
       </div>
 
       <div class="footer-section">
@@ -39,7 +39,7 @@ useHead({
     </main>
   </div>
 </template>
-
+    
 <style>
 /* Global Reset and Styles */
 * {
