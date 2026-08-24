@@ -23,7 +23,7 @@ useHead({
           <span class="pulse-dot"></span>
           Live Demonstration
         </div>
-        <h1 class="title">Aisan's Workshop</h1>
+        <h1 class="title">jerry's Workshop</h1>
       </div>
       
       <div class="status-box">
