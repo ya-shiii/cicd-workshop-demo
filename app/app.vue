@@ -21,9 +21,9 @@ useHead({
       <div class="header-section">
         <div class="badge">
           <span class="pulse-dot"></span>
-          Live Demo
+          Live Demonstration
         </div>
-        <h1 class="title">CI/CD Workshop</h1>
+        <h1 class="title">Aisan's Workshop</h1>
       </div>
       
       <div class="status-box">
